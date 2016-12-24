@@ -1,0 +1,10 @@
+version 0.0.1
+
+Provide all necessary arguments from command prompt
+Query skyscanner api for all itenararies between two specified airport codes and an inbound/outbound date
+Save itenararies to MongoDb
+
+In development  for version 0.0.2
+
+Retrieve the lowest price seen sofar and compare with new price. If lower email stoyta
+Create a way to add travel plan searches 

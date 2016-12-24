@@ -1,0 +1,483 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"searchData"
+			],
+			[
+				"momo",
+				"momondo_api"
+			],
+			[
+				"g",
+				"getItinerarySearch"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"Sea",
+				"search"
+			],
+			[
+				"res",
+				"responseJsonBody"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"ses",
+				"sessionUrl"
+			],
+			[
+				"poll",
+				"pollNextBatch"
+			],
+			[
+				"inb",
+				"inbounddepartendtime"
+			],
+			[
+				"out",
+				"outbounddepartendtime"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"see",
+				"sessionKey"
+			],
+			[
+				"em",
+				"emailText"
+			],
+			[
+				"cure",
+				"currentBestPrice"
+			],
+			[
+				"de",
+				"details"
+			],
+			[
+				"iti",
+				"itinerary"
+			],
+			[
+				"mail",
+				"mailOptions"
+			],
+			[
+				"stm",
+				"smtpConfig"
+			],
+			[
+				"dep",
+				"departureTime"
+			],
+			[
+				"inbo",
+				"inboundTimeConstraint"
+			],
+			[
+				"ful",
+				"fullBooking"
+			],
+			[
+				"outbo",
+				"outboundLegDetails"
+			],
+			[
+				"Inb",
+				"inboundLegId"
+			],
+			[
+				"it",
+				"itinerary"
+			],
+			[
+				"d",
+				"deeplink"
+			],
+			[
+				"ite",
+				"itineraryRecord"
+			],
+			[
+				"des",
+				"describe"
+			],
+			[
+				"resul",
+				"results"
+			],
+			[
+				"pricin",
+				"pricingOptions"
+			],
+			[
+				"inser",
+				"insertItinerary"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"find",
+				"findDocuments"
+			],
+			[
+				"insert",
+				"insertDocuments"
+			],
+			[
+				"mon",
+				"mongoInsert"
+			],
+			[
+				"co",
+				"collection"
+			],
+			[
+				"pri",
+				"pricingOptions"
+			],
+			[
+				"I",
+				"Itineraries"
+			],
+			[
+				"session",
+				"sessionKey"
+			],
+			[
+				"result",
+				"resultPromise"
+			],
+			[
+				"pol",
+				"pollSession"
+			],
+			[
+				"numbe",
+				"numberOfPolls"
+			],
+			[
+				"num",
+				"numberOfPolls"
+			],
+			[
+				"sess",
+				"sessionKey"
+			],
+			[
+				"SKY",
+				"SKY_BASE_API"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"live",
+				"live_pricing_session_url"
+			],
+			[
+				"gro",
+				"groupPricing"
+			],
+			[
+				"dest",
+				"destinationplace"
+			],
+			[
+				"orig",
+				"originplace"
+			],
+			[
+				"or",
+				"originplace"
+			],
+			[
+				"cu",
+				"currency"
+			],
+			[
+				"lo",
+				"locale"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cur",
+				"currency"
+			],
+			[
+				"create",
+				"createSessionUrl"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"cre",
+				"createSessionUrl"
+			],
+			[
+				"api",
+				"apiKey"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 185.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 571.0
+	},
+	"console":
+	{
+		"height": 487.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"//STOYTA-PC/Users/Stoyta/skyscanner",
+		"//STOYTA-PC/Users/Stoyta/skyscanner/build",
+		"//STOYTA-PC/Users/Stoyta/skyscanner/momondo"
+	],
+	"file_history":
+	[
+		"/C/Users/Stoyta/skyscanner/momondo/search.js",
+		"/C/Users/Stoyta/Documents/WindowsPowerShell/Microsoft.Powershell_profile.ps1",
+		"/C/Users/Stoyta/flights/requirements.txt",
+		"/C/Python-3.4.5/Python-3.4.5/README",
+		"/C/Users/Stoyta/Desktop/elasticsearch-2.4.0/config/logging.yml",
+		"/C/Users/Stoyta/Desktop/elasticsearch-2.4.0/config/elasticsearch.yml",
+		"/C/Users/Stoyta/skyscanner/src/releasenotes",
+		"/C/Users/Stoyta/skyscanner/Gulpfile.js",
+		"/C/Users/Stoyta/skyscanner/package.json",
+		"/C/Users/Stoyta/skyscanner/build/skyscanner.js",
+		"/C/Users/Stoyta/skyscanner/.eslintrc.js",
+		"/C/Users/Stoyta/skyscanner/node_modules/momondo/10/search/index.js",
+		"/C/Users/Stoyta/skyscanner/node_modules/momondo/10/redirect/index.js",
+		"/C/Users/Stoyta/skyscanner/node_modules/momondo/10/search/flightSearchResults.js",
+		"/C/Users/Stoyta/skyscanner/src/momondo.js",
+		"/C/Users/Stoyta/skyscanner/src/skyscanner.js",
+		"/C/Users/Stoyta/skyscanner/src/database.js",
+		"/C/Users/Stoyta/skyscanner/src/getFlights.js",
+		"/C/Users/Stoyta/skyscanner/src/mailer.js",
+		"/C/Users/Stoyta/skyscanner/src/Gulpfile.js",
+		"/C/Users/Stoyta/skyscanner/build/getFlights.js",
+		"/C/Users/Stoyta/skyscanner/.babelrc",
+		"/C/Users/Stoyta/skyscanner/src/build,js.json",
+		"/C/Users/Stoyta/skyscanner/node_modules/skyscannerjs/lib/skyscanner.js",
+		"/C/Users/Stoyta/skyscanner/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-unicode-regex/node_modules/babel-helper-regex/node_modules/babel-types/node_modules/babel-traverse/node_modules/debug/package.json",
+		"/C/Users/Stoyta/skyscanner/node_modules/got/index.js",
+		"/C/Users/Stoyta/skyscanner/database.js",
+		"/C/Users/Stoyta/skyscanner/getFlights.js",
+		"/C/Users/Stoyta/skyscanner/build/database.js",
+		"/C/Users/Stoyta/skyscanner/build/app.js",
+		"/C/Program Files/nodejs/node_modules/npm/package.json",
+		"/C/Users/Stoyta/skyscanner/main.js",
+		"/C/Users/Stoyta/skyscanner/app/app.js",
+		"/C/Users/Stoyta/Desktop/SPACE.csv"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"})\n",
+			"\n    ",
+			"html",
+			"3",
+			"deferred",
+			"deffered",
+			"fetch",
+			"post",
+			"got.posr",
+			"post",
+			"argv",
+			"locales",
+			"argv",
+			"flightPricingURL",
+			"session"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "\\\\STOYTA-PC\\Users\\Stoyta\\skyscanner"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

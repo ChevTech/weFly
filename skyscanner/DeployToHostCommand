@@ -1,0 +1,1 @@
+scp -r -i C:/Users/Stoyta/Desktop/AWS/myhostkey.pem C:\Users\Stoyta\skyscanner ec2-user@34.194.166.156:/home/ec2-user/skyscanner

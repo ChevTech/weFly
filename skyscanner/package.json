@@ -1,0 +1,34 @@
+{
+  "name": "SkySearch",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0",
+    "es6-denodeify": "^0.1.5",
+    "got": "^6.3.0",
+    "gulp": "^3.9.1",
+    "momondo": "^1.0.7",
+    "mongodb": "^2.2.6",
+    "nodemailer": "^2.6.4",
+    "open": "0.0.5",
+    "promised-mongo": "^1.2.0",
+    "skyscannerjs": "^0.2.2",
+    "underscore": "^1.8.3",
+    "yargs": "^4.8.1"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "scripts": {
+    "build": "babel src -d build"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-preset-es2015": "^6.14.0",
+    "eslint": "^3.6.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
